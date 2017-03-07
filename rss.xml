@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The One True Blog</title>
+    <link>http://laiwenhui.github.io</link>
+    <description>Emacs, Programming, and Arch Linux</description>
+    <pubDate>Tue, 07 Mar 2017 23:08:07 CST</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 23:08:07 CST</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+  </channel>
+</rss>
