@@ -4,8 +4,8 @@
     <title>编程路慢慢</title>
     <link>http://laiwenhui.github.io</link>
     <description>linux windows macos</description>
-    <pubDate>Wed, 08 Mar 2017 00:30:28 CST</pubDate>
-    <lastBuildDate>Wed, 08 Mar 2017 00:30:28 CST</lastBuildDate>
+    <pubDate>Wed, 08 Mar 2017 00:40:06 CST</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2017 00:40:06 CST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,6 +14,20 @@
       <description><![CDATA[版权声明：本文为foruok原创文章，转载请通过订阅号“程序视界”联系foruok获取授权。]]></description>
       <pubDate>2017-03-08</pubDate>
       <guid>http://laiwenhui.github.io/blog/2017/03/07/程序员转行为什么这么难</guid>
+    </item>
+    <item>
+      <title>linux常用命令</title>
+      <link>http://laiwenhui.github.io/blog/2017/03/08/linux常用命令</link>
+      <description><![CDATA[用来记录Linux开发过程中常用的命令]]></description>
+      <pubDate>2017-03-08</pubDate>
+      <guid>http://laiwenhui.github.io/blog/2017/03/08/linux常用命令</guid>
+    </item>
+    <item>
+      <title>test</title>
+      <link>http://laiwenhui.github.io/blog/2017/03/08/test</link>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <pubDate>2017-03-08</pubDate>
+      <guid>http://laiwenhui.github.io/blog/2017/03/08/test</guid>
     </item>
   </channel>
 </rss>
