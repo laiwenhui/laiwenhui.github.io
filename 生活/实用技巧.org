@@ -1,0 +1,14 @@
+#+TITLE:       实用技巧
+#+AUTHOR:      laiwenhui
+#+EMAIL:       laiwen@bogon
+#+DATE:        2017-03-08 Wed
+#+URI:         /blog/%y/%m/%d/实用技巧
+#+KEYWORDS:    <TODO: insert your keywords here>
+#+TAGS:        <TODO: insert your tags here>
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: 记录生活日常
+
+* 汽车
+1. 新手车位感判断及倒车技巧
+   wenku.baidu.com/view/559ebb1ba2161479171128ac.html
